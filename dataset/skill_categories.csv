@@ -1,0 +1,27 @@
+Skill,Kategori
+Python,Bahasa Rekomendasi
+R,Bahasa Pemrograman
+  Vim / Emacs  ,Tools (IDE)
+Colab Notebooks,Tools (Notebook)
+ Google Cloud TPUs ,Hardware Khusus
+ Matplotlib ,Library (Visualisasi)
+ Seaborn ,Library (Visualisasi)
+ Ggplot / ggplot2 ,Library (Visualisasi)
+ Shiny ,Library (Visualisasi)
+ Leaflet / Folium ,Library (Visualisasi)
+  Scikit-learn ,Library (Machine Learning)
+  TensorFlow ,Library (Machine Learning)
+ Caret ,Library (Machine Learning)
+Linear or Logistic Regression,Algoritma (Machine Learning)
+Decision Trees or Random Forests,Algoritma (Machine Learning)
+"Gradient Boosting Machines (xgboost, lightgbm, etc)",Algoritma (Machine Learning)
+Bayesian Approaches,Algoritma (Machine Learning)
+"Dense Neural Networks (MLPs, etc)",Algoritma (Machine Learning)
+Convolutional Neural Networks,Algoritma (Machine Learning)
+Recurrent Neural Networks,Algoritma (Machine Learning)
+Coursera,Tools (Etika & Tata Kelola AI)
+edX,Tools (Etika & Tata Kelola AI)
+Kaggle Learn Courses,Tools (Etika & Tata Kelola AI)
+DataCamp,Tools (Etika & Tata Kelola AI)
+Udacity,Tools (Etika & Tata Kelola AI)
+Udemy,Tools (Etika & Tata Kelola AI)
